@@ -1,2 +1,7 @@
 .mono/*
 .import/*
+
+
+# Added by cargo
+
+/target
