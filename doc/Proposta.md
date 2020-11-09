@@ -89,5 +89,5 @@ Dentre os eventos naturais temos: `desertificação` onde o terreno alvo tem seu
 
 ## Objetivo do jogo
 
-O objetivo dos jogadores é dominar o terreno inicial do jogador inimigo. Duas quinas opostas do jogo são consideradas especiais. Nelas apenas um jogador pode colocar terreno, o terreno colocado é fixado imediatamente e o jogador é obrigado a colocar um terreno no seu primeiro turno, senão ele perde o jogo. Esse terreno é denominado terreno inical e não pode ser alvo de efeitos que removam o terreno.
+O objetivo dos jogadores é dominar o terreno inicial do jogador inimigo. Duas quinas opostas do jogo são consideradas especiais. Nelas apenas um jogador pode colocar terreno, o terreno colocado é fixado imediatamente e o jogador é obrigado a colocar um terreno no seu primeiro turno, senão ele perde o jogo. Esse terreno é denominado terreno inical e não pode ser alvo de efeitos que removam o terreno (ao remover um terreno com criaturas, elas são removidas do jogo também).
 
