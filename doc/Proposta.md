@@ -42,7 +42,7 @@ Os tipos primários são:
 
 (* ainda não estarão disponíveis na v0.1.0)
 
-Atualmente os tipos secudários são:
+Atualmente os tipos secundários são:
 - Básico
 
 Além dos tipos terrenos podem possuir efeitos, como dar bônus de ataque para as criaturas que estão nele, e possuem uma capacidade de criaturas.
@@ -58,10 +58,10 @@ Criaturas básicas possuem um tipo primário dentre os tipos primários de terre
 - macado
 - peixe
 - guerreiro
-- arvore
+- árvore
 - etc...
 
-Criaturas básicas não possuem efeito e depois do primeiro turno que foram colocadas elas podem 1 vez por turno na fase de ação mover para um terreno adjacente (Norte, Sul, Leste, Oeste) que tenha espaço livre de criatura ou (exclusivo) evoluir. Tal como quando invocado, se mover para um terreno com uma ou mais criaturas o jogador deve definir em que posição ele entra na pilha de criaturas. Ela também pode mover na pilha do terreno, apenas se reordenando na pilha.
+Criaturas básicas não possuem efeito e depois do primeiro turno que foram colocadas elas podem 1 vez por turno na fase de ação mover para um terreno adjacente (Norte, Sul, Leste, Oeste) que tenha espaço livre de criatura ou (exclusivo) evoluir. Tal como quando invocado, se mover para um terreno com uma ou mais criaturas o jogador deve definir em que posição ele entra na pilha de criaturas. Ela também pode mover na pilha do terreno, apenas se re-ordenando na pilha.
 
 Caso o jogador tente mover a criatura para um terreno inimigo sem criaturas esse terreno no fim do turno passa a ser controlado pelo jogador.
 
@@ -79,7 +79,7 @@ Por fim criaturas podem ter terrenos letais, no caso da criatura estar num terre
 
 As criaturas evoluídas também atributos de resistência e ataque bem como categorias, tipos primário e terrenos letais.
 
-Para evoluir, a criatura básica em campo precisa ter a mesma categoria da criatura evoluida na mão do jogador. Exceto pelo turno em que a criatura evoluida entrou no campo, ela pode realizar as ações de mover e procriar.
+Para evoluir, a criatura básica em campo precisa ter a mesma categoria da criatura evoluída na mão do jogador. Exceto pelo turno em que a criatura evoluída entrou no campo, ela pode realizar as ações de mover e procriar.
 
 Criaturas podem exigir além da categoria da criatura que ela evoluiu, outros critérios como acontecer num terreno de tipo primário específico (Por exemplo, a criatura básica `girino` é do tipo `rio`, porém o `sapo` precisa que o `girino` esteja num terreno de `floresta`, `planície` e ou `montanha` para evoluir).
 
