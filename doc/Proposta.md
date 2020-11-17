@@ -7,7 +7,14 @@ Um jogo sobre evolução e eventos naturais.
 - Victor Tsutsumiuchi   7275747
 - Vitor Silva           10263531
 
+## Público-Alvo
+
+Adolescentes e jovens adultos interessados e jogos de estratégia com partidas de 10-30 minutos.
+
+Cliente disponível inicialmente para desktop.
+
 ## Proposta
+
 Em `Natureza` dois jogadores se confrontam num combate de domínio de territórios usando criaturas que evoluem e interagem com os ambientes.
 
 O jogo acontece num tabuleiro 4x4 inicialmente vazio e cada jogador com um deck de 42 cartas embaralhadas saca 5 cartas.
