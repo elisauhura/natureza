@@ -1,6 +1,7 @@
 .mono/*
 .import/*
-
+*/*.pyc
+*/*__pycache__/*
 
 # Added by cargo
 
