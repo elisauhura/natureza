@@ -1,0 +1,25 @@
+{
+  "name": "natureza",
+  "version": "0.0.1",
+  "description": "A game of strategy",
+  "main": "server/index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elUrso/natureza.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/elUrso/natureza/issues"
+  },
+  "homepage": "https://github.com/elUrso/natureza#readme",
+  "dependencies": {
+    "ws": "^7.4.0"
+  }
+}
